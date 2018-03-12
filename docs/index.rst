@@ -2,7 +2,7 @@
 mod_wsgi
 ========
 
-The mod_wsgi package implements a simple to use Apache module which can
+The mod_wsgi package implements a simple way to use Apache module which can
 host any Python web application which supports the Python WSGI_
 specification. The package can be installed in two different ways
 depending on your requirements.
